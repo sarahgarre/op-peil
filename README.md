@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Het projecy
+Opportuniteiten voor peilgestuurde drainage in Vlaanderen / OP-PEIL is een LA-traject gefinancierd door VLAIO en loopt van nov 2021 tot okt 2025.
 
 You can use the [editor on GitHub](https://github.com/sarahgarre/op-peil/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
