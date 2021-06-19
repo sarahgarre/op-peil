@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welkom bij OP-PEIL"
+title: "Het project"
 author: "Sarah Garré"
 categories: documentation
 tags: [documentation,sample]

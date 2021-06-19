@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Achtergrondinformatie"
+author: "Sarah Garre"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg

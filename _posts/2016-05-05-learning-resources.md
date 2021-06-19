@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "De partners"
+author: "Sarah Garré"
 categories: resources
 tags: [documentation,sample]
 image: arctic-2.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Zelf aan de slag"
+author: "Sarah Garre"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
