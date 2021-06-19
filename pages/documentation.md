@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Zelf aan de slag
 category: documentation
 permalink: /documentation
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Nieuws
 category: sample
 permalink: /sample-posts
 ---

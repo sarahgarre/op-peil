@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
+title: De partners
 permalink: /about
 ---
 
-OP-PEIL is een LA-traject gefinancierd door het Vlaams Agentschap Innoveren en Ondernemen - VLAIO tussen Nov 2021 - Okt 2025.
