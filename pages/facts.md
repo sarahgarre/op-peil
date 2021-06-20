@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Over het project
 category: facts
 permalink: /facts

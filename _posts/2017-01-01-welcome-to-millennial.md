@@ -3,13 +3,13 @@ layout: post
 title: "Het project"
 author: "Sarah Garré"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation]
 image: index.png
 ---
 
 ## Het project
 
-[Het project]({{ site.github.url }}{% post_url 2021-06-20-projectbeschrijving %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Het project]({{ site.github.url }}{% post_url 2021-06-20-projectbeschrijving %}): Kom meer te weten over dit project om peilgestuurde drainage uit te rollen in Vlaanderen.
 
 ## Achtergrondinformatie
 
