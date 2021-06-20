@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Over het project',  url: 'facts'}
+- {name: 'Over het project',  url: 'project'}
 - {name: 'Documentatie', url: 'resources'}
 - {name: 'Zelf aan de slag?',       url: 'documentation'}
 - {name: 'Nieuws',      url: 'sample-posts'}

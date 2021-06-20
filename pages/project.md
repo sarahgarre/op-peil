@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Over het project
-category: facts
-permalink: /facts
+category: project
+permalink: /project
 ---
 
 De algemene strategische doelstelling is de doorbraak op korte termijn van PGD-systemen in Vlaanderen 
