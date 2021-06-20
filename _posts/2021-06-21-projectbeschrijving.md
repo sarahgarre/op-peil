@@ -2,8 +2,8 @@
 layout: post
 title: "Projectinformatie"
 author: "Sarah Garre"
-categories: documentation
-tags: [documentation,sample]
+categories: project
+tags: [project,sample]
 image: index.png
 ---
 

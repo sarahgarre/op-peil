@@ -3,7 +3,7 @@ layout: post
 title: "Over de partners"
 author: "Sarah Garré"
 categories: about
-tags: [sample]
+tags: [about,sample]
 image: logos.png
 ---
 
