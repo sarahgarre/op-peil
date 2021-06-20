@@ -11,4 +11,5 @@ Wil je zelf aan de slag met peilgestuurde drainge? OP-PEIL biedt je de mogelijkh
 peilsturing zinvol en mogelijk is, begeleidt je bij de uitvoering en evalueert ook de werking van je peilsturing nadien. 
 
 Interesse? Neem contact op met Tom Coussement van de Bodemkundige Dienst om een begeleidingstraject aan te vragen ism één
-van onze partners (Inagro, PSKW, PCG, Boerennatuur, BDB).
+van onze partners (Inagro, PSKW, PCG, Boerennatuur, BDB). Op deze website vind je onder het menu 'Zelf aan de slag' al wat 
+meer informatie over wat OP-PEIL voor jouw bedrijf kan betekenen.
