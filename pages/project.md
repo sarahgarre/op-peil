@@ -23,4 +23,7 @@ aan de hand van demonstratieactiviteiten en workshops.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I7IEWhWdID4" title="Animatie peilgestuurde drainage" frameborder="0" allowfullscreen></iframe>
 
+Het project is gestructureerd in 6 werkpaketten:
+![WBS](./assets/img/WBS.png )
+
 OP-PEIL is een LA-traject gefinancierd door het Vlaams Agentschap Innoveren en Ondernemen - VLAIO tussen Nov 2021 - Okt 2025.
