@@ -2,7 +2,7 @@
 layout: post
 title: "Over de partners"
 author: "Sarah Garré"
-categories: facts
+categories: about
 tags: [sample]
 image: logos.png
 ---
