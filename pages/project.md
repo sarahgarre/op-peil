@@ -21,6 +21,6 @@ met de nadruk op het aanleggen van een haalbaar en financieel rendabel PGD-syste
 * Het maximaal uitdragen van de kennis rond PGD, zowel door het projectteam als door de landbouwers van de doelgroepbedrijven, 
 aan de hand van demonstratieactiviteiten en workshops.
 
-![principe PGD](index.png "Peilgestuurde drainage principe")
+![principe PGD](../assets/img/index.png "Peilgestuurde drainage principe")
 
 OP-PEIL is een LA-traject gefinancierd door het Vlaams Agentschap Innoveren en Ondernemen - VLAIO tussen Nov 2021 - Okt 2025.
