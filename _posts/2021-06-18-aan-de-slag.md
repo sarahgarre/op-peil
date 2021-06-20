@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: "Zelf aan de slag"
 author: "Sarah Garré"
-categories: sample
-tags: [sample]
+categories: action
+tags: [action, sample]
 image: trench_buis.jpg
 ---
 
