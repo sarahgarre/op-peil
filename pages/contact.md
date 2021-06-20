@@ -12,7 +12,7 @@ W. De Croylaan 48
 3001 Heverlee  
 
 ## Projectpartners
-#### Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)
+#### [Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)](www.ilvo.vlaanderen.be)
 
 Sarah Garré  
 Caritasstraat 39  
