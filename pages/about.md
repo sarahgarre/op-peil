@@ -4,14 +4,12 @@ title: Partners
 category: about
 permalink: /about
 ---
-### Coördinator
-#### Bodemkundige Dienst van België (BDB)
+#### Bodemkundige Dienst van België (BDB, COÖRDINATOR)
 
 Tom Coussement, Frank Elsen   
 W. De Croylaan 48  
 3001 Heverlee  
 
-### Projectpartners
 #### Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)
 
 Sarah Garré  
@@ -58,5 +56,22 @@ Diestsevest 40
 - Rits Drainage
 - Omni-drain
 - Barth drainage
-- TACO cvba
 - DG Drainage
+
+## Begeleidingsgroep
+- TACO cvba
+- LV Dermaut
+- Vlaamse Milieumaatschappij (VMM)
+- Agentschap voor Natuur en Bos
+- Vlakwa
+- Hydroscan nv
+- Sumaqua bv
+- KnowH2O (nl)
+- KWR (nl)
+- Proefcentrum Fruitteelt vzw
+- Proefcentrum voor Sierteelt
+- Praktijkpunt Landbouw Vlaams-Brabant
+- Provincie Oost-Vlaanderen
+- Provincie West-Vlaanderen
+- Provincie Antwerpen
+- Provincie Limburg
