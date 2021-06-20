@@ -6,13 +6,11 @@ permalink: /documentation
 ---
 ## Literatuur/
 
-*******TO DO: would be better to embed online OP-PEIL reference library
-
 Elsen, Frank, and Tom Coussement. 2019. [Drainage +  Peilgestuurde drainage als alternatief voor klassieke drainage.](./assets/docu/Eindrapport-DrainagePlus.pdf) BDB.
 
-Stuyt, L. C. P. M. 2013. “Regelbare drainage als schakel in toekomstbestendig waterbeheer : bundeling van resultaten van onderzoek, ervaringen en indrukken, opgedaan in binnen- en buitenland.” Alterra.
+Stuyt, L. C. P. M. 2013. [Regelbare drainage als schakel in toekomstbestendig waterbeheer ](./assets/docu/rapportAlterra.pdf) Alterra.
 
-“Meer Water Met Regelbare Drainage?” 2012. 33. STOWA.
+Stuyt et al. 2012. 33.[Meer Water Met Regelbare Drainage?](./assets/docu/STOWA-2012-33.pdf)  STOWA.
 
 ## Gerelateerde projecten
 ### [Boer.Beek.Bodem](https://www.boerennatuur.be/beek-boer-bodem/)
