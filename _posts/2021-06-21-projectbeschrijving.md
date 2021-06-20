@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Informatie over het project"
+title: "Projectinformatie"
 author: "Sarah Garre"
 categories: documentation
 tags: [documentation,sample]
