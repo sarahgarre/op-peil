@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Over het project',  url: 'project'}
 - {name: 'Documentatie', url: 'resources'}
-- {name: 'Zelf aan de slag?',       url: 'documentation'}
+- {name: 'Zelf aan de slag?',       url: 'action'}
 - {name: 'Nieuws',      url: 'sample-posts'}
 - {name: 'De partners',     url: 'about'}
 
