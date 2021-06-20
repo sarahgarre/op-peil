@@ -2,7 +2,7 @@
 layout: post
 title: "Achtergrondinformatie"
 author: "Sarah Garré"
-categories: resources
+categories: documentation
 tags: [documentation]
 image: books.jpg
 ---
