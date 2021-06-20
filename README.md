@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OP-PEIL
 
 OP-PEIL - Opportuniteiten voor peilgestuurde drainage 
@@ -8,6 +7,4 @@ werkt aan de uitrol van de techniek.
 
 ![alt text](https://sarahgarre.gihub.io/op-peil/img/index.png "PGD schets")
 
-=======
 
->>>>>>> origin/main
