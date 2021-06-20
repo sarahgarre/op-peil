@@ -34,12 +34,3 @@ Uitleg begeleidingstraject, voorwaarden, contacten
 
 VLAIO LA-trajecten zijn onderzoeksprojecten voor de primaire sector. 
 Wil je graag deelnemen aan onze gebruikersgroep, die 1x per jaar samenkomt om projectresultaten en verdere aanpak te bespreken, laat het ons zeker weten!
-
-
-## Beeldmateriaal
-
-Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
