@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentatie
+title: Begeleidingstraject
 category: action
 permalink: /action
 ---

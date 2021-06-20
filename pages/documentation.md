@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zelf aan de slag
+title: Achtergrondinformatie
 category: documentation
 permalink: /documentation
 ---
