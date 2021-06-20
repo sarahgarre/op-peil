@@ -27,4 +27,4 @@ met de nadruk op het aanleggen van een haalbaar en financieel rendabel PGD-syste
 * Het maximaal uitdragen van de kennis rond PGD, zowel door het projectteam als door de landbouwers van de doelgroepbedrijven, 
 aan de hand van demonstratieactiviteiten en workshops.
 
---hier figuur werkpakketten invoegen---
+Meer informatie over [OP-PEIL](sarahgarre.github.io/op-peil/project) kan je hier vinden.

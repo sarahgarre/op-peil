@@ -4,7 +4,7 @@ title: Achtergrondinformatie
 category: documentation
 permalink: /documentation
 ---
-## Literatuur/
+## Literatuur
 
 Elsen, Frank, and Tom Coussement. 2019. [Drainage +  Peilgestuurde drainage als alternatief voor klassieke drainage.](./assets/docu/Eindrapport-DrainagePlus.pdf) BDB.
 
