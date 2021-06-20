@@ -9,11 +9,11 @@ image: index.png
 
 ## Het project
 
-[Het project]({{ site.github.url }}{% post_url 2021-06-20-projectbeschrijving %}): Kom meer te weten over dit project om peilgestuurde drainage uit te rollen in Vlaanderen.
+[Het project]({{ site.github.url }}{% post_url 2021-06-21-projectbeschrijving %}): Kom meer te weten over dit project om peilgestuurde drainage uit te rollen in Vlaanderen.
 
 ## Achtergrondinformatie
 
-[Achtergrondinformatie]({{ site.github.url }}{% post_url 2021-06-21-learning-resources %})
+[Achtergrondinformatie]({{ site.github.url }}{% post_url 2021-06-20-learning-resources %})
 
 ## Zelf aan de slag?
 
@@ -26,4 +26,7 @@ OP-PEIL wil minstens 200 unieke bedrijven bereiken en begeleiden bij hun vragen 
 Bijkomend zijn er op het einde van het project minstens 15 concrete veranderingstrajecten bereikt met omvorming van KD naar PGD, met een helder verdienmodel 
 voor de teler.
 
+## Partners
+
+[De partners]({{ site.github.url }}{% post_url 2021-06-19-about-the-author %}): Kom meer te weten over dit project om peilgestuurde drainage uit te rollen in Vlaanderen.
 
