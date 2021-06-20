@@ -6,16 +6,6 @@ categories: documentation
 tags: [documentation]
 image: books.jpg
 ---
-## Literatuur
-Links to relevant literature - msch via Zotero library?
-
-## Gerelateerde projecten
-### [Boer.Beek.Bodem ] (https://www.boerennatuur.be/beek-boer-bodem/)
-korte samenvatting
-
-### [Drainage Plus](www.agrobeheercentrum.be/Projecten/Drainage-Plus)
-korte samenvatting
-
-### B-WaterSmart
+Op deze website zullen we gaandeweg bestaande informatie rond peilgestuurde drainage verzamelen en vrij ter beschikking stellen. Neem zeker een kijkje onder de tab 'Documentatie'!
 
 
