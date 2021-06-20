@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Achtergrondinformatie"
+title: "Informatie over het project"
 author: "Sarah Garre"
 categories: documentation
 tags: [documentation,sample]
-image: trench_buis.jpg
+image: index.png
 ---
 
 # OP-PEIL
