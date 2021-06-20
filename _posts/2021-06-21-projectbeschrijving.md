@@ -3,7 +3,7 @@ layout: post
 title: "Projectinformatie"
 author: "Sarah Garre"
 categories: project
-tags: [project,sample]
+tags: [project]
 image: index.png
 ---
 
