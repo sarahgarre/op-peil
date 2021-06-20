@@ -6,7 +6,7 @@ permalink: /contact
 ---
 
 ## Coördinator
-#### Bodemkundige Dienst van België (BDB)
+#### [Bodemkundige Dienst van België (BDB)](https://www.bdb.be/)
 Tom Coussement, Frank Elsen   
 W. De Croylaan 48 
 3001 Heverlee  
@@ -18,31 +18,31 @@ Sarah Garré
 Caritasstraat 39  
 9090 Melle  
 
-#### Proefcentrum voor de Groententeelt (PCG)
+#### [Proefcentrum voor de Groententeelt (PCG)](https://www.pcgroenteteelt.be/)
 
 Elise Vandewoestijne   
 Karreweg 6  
 9770 Kruisem  
 
-#### Proefstation voor de Groententeelt (PSKW)
+#### [Proefstation voor de Groententeelt (PSKW)](https://www.proefstation.be/)
 
 Joris De Nies  
 Duffelsesteenweg 101  
 2860 Sint-Katelijne-Waver  
 
-#### INAGRO
+#### [INAGRO](www.inagro.be)
 
 Dominique Huits  
 Ieperseweg 87   
 8800 Rumbeke-Beitem  
 
-#### Vlaamse Instelling voor Technologisch Onderzoek (VITO)
+#### [Vlaamse Instelling voor Technologisch Onderzoek (VITO)](www.vito.be)
 
 Anne Gobin  
 Boeretang 200  
 2400 Mol  
 
-#### Boerennatuur Vlaanderen
+#### [Boerennatuur Vlaanderen](www.boerennatuur.be)
 
 Sven Defrijn  
 Diestsevest 40  
