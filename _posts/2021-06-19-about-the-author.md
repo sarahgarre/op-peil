@@ -9,7 +9,7 @@ image: logos.png
 
 ## Coördinator
 #### Bodemkundige Dienst van België (BDB)
-|![logo_BDB](../assets/img/logo_bdb.png "logo BDB") |  Tom Coussement, Frank Elsen   |    
+| ![logo_BDB](./assets/img/logo_bdb.png "logo BDB") |  Tom Coussement, Frank Elsen   |    
 W. De Croylaan 48 
 3001 Heverlee  
 

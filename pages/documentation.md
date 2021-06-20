@@ -12,6 +12,20 @@ Stuyt, L. C. P. M. 2013. [Regelbare drainage als schakel in toekomstbestendig wa
 
 Stuyt et al. 2012. 33.[Meer Water Met Regelbare Drainage?](./assets/docu/STOWA-2012-33.pdf)  STOWA.
 
+## Webinars en online beeldmateriaal
+
+### Webinar door Boerennatuur Vlaanderen 15 februari 2021
+Inhoud:
+00:00 - Intro  
+02:32 - Peilgestuurde drainage: Filmpje 
+04:46 - Peilgestuurde drainage: Voor- & nadelen  
+25:23 - Peilgestuurde drainage: Aanleg & kostprijs  
+34:20 - Subirrigatie: Wat, voordelen, aanleg, kostprijs  
+46:32 - Vragen  
+58:40 - Outro  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAASnJX6puc" title="Webinar peilgestuurde drainage en subirrigatie" frameborder="0" allowfullscreen></iframe>
+
 ## Gerelateerde projecten
 ### [Boer.Beek.Bodem](https://www.boerennatuur.be/beek-boer-bodem/)
 {beek.boer.bodem} wil in het afstroomgebied van de Aa (Herentals, Kasterlee, Lille en Vorselaar) inzetten op 
@@ -43,16 +57,3 @@ meerwaarde van PGD en waterconservering in de brede zin naar landbouwers en bele
 Dat gebeurde via demodagen, artikels in relevante pers, toelichtingen op vergaderingen van bedrijfsgilden, 
 sectorgroepen, landbouwraden,....
 
-## Webinars en online beeldmateriaal
-
-### Webinar door Boerennatuur Vlaanderen 15 februari 2021
-Inhoud:
-00:00 - Intro  
-02:32 - Peilgestuurde drainage: Filmpje 
-04:46 - Peilgestuurde drainage: Voor- & nadelen  
-25:23 - Peilgestuurde drainage: Aanleg & kostprijs  
-34:20 - Subirrigatie: Wat, voordelen, aanleg, kostprijs  
-46:32 - Vragen  
-58:40 - Outro  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pAASnJX6puc" title="Webinar peilgestuurde drainage en subirrigatie" frameborder="0" allowfullscreen></iframe>
