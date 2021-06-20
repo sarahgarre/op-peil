@@ -7,10 +7,22 @@ tags: [documentation,sample]
 image: trench_buis.jpg
 ---
 
-# Millennial
+# OP-PEIL
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out [this article](https://hungryminds.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages/).
+De algemene strategische doelstelling is de doorbraak op korte termijn van PGD-systemen in Vlaanderen 
+die zowel maatschappelijk als landbouwkundig rendabel en effectief zijn. Deze doelstelling wordt bereikt door:
+* Het verder opbouwen en samenbrengen van de kennis die de afgelopen jaren vergaard is rond PGD in Vlaanderen, 
+met nadruk op de meerwaarde die PGD kan betekenen in de strijd tegen verdroging en voor de bedrijfsvoering en 
+financiële meeropbrengst voor de landbouwer. 
+Specifiek wordt er ook de nodige vakkennis opgebouwd rond 3 kennishiaten: 
+    1. het potentieel van subirrigatie via PGD, 
+    2. de invloed van PGD op het zoet-zoutvlak in de poldercontext, en 
+    3. de mogelijkheden voor waterbeheer op landschapsschaal.
+* Het aanbieden van beslissingsondersteunende richtlijnen en praktische aanbevelingen aan bedrijven 
+over de perceelsspecifieke toepassing van PGD.
+* Het stimuleren en begeleiden van doelgroepbedrijven bij de omvorming van klassieke naar PGD, 
+met de nadruk op het aanleggen van een haalbaar en financieel rendabel PGD-systeem.
+* Het maximaal uitdragen van de kennis rond PGD, zowel door het projectteam als door de landbouwers van de doelgroepbedrijven, 
+aan de hand van demonstratieactiviteiten en workshops.
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
-
-#
+![principe PGD](index.png "Peilgestuurde drainage principe")
