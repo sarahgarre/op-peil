@@ -11,7 +11,7 @@ menu:
 - {name: 'Documentatie', url: 'resources'}
 - {name: 'Zelf aan de slag?',       url: 'documentation'}
 - {name: 'Nieuws',      url: 'sample-posts'}
-- {name: 'De partners',              url: 'about'}
+- {name: 'De partners',     url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

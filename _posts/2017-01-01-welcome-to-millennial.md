@@ -25,11 +25,11 @@ aan de hand van demonstratieactiviteiten en workshops.
 
 ## Het project
 
-[Getting Started]({{ site.github.url }}{% post_url 2021-06-20-projectbeschrijving %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Het project]({{ site.github.url }}{% post_url 2021-06-20-projectbeschrijving %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 ## Achtergrondinformatie
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2021-06-21-learning-resources %})
+[Achtergrondinformatie]({{ site.github.url }}{% post_url 2021-06-21-learning-resources %})
 
 ## Zelf aan de slag?
 
@@ -42,6 +42,4 @@ OP-PEIL wil minstens 200 unieke bedrijven bereiken en begeleiden bij hun vragen 
 Bijkomend zijn er op het einde van het project minstens 15 concrete veranderingstrajecten bereikt met omvorming van KD naar PGD, met een helder verdienmodel 
 voor de teler.
 
-
-## De partners
 
