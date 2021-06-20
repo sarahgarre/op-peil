@@ -4,7 +4,7 @@ title: Contact
 category: contact
 permalink: /contact
 ---
-
+![logos](./assets/img/logos.png "logos partners")   
 ## Coördinator
 #### [Bodemkundige Dienst van België (BDB)](https://www.bdb.be/)
 
@@ -45,14 +45,38 @@ Boeretang 200
 
 #### [Boerennatuur Vlaanderen](https://www.boerennatuur.be)
 
-Sven Defrijn  
+Sven Defrijn, Steve Meuris  
 Diestsevest 40  
 3000 Leuven  
 
 ## Cofinancierders
-
--to do-
+Dit project wordt mede mogelijk gemaakt door deze cofinancierders:
+- Hoofdbestuur BoerenBond (HBB vzw)
+- Algemeen BoerenSyndicaat (ABS)
+- Logistieke en Administratie Veiling Associatie cvba (LAVA)
+- WERKERS
+- iFlux
+- Rits Drainage
+- Omni-drain
+- Barth Drainage
+- DG Drainage
 
 ## Begeleidingsgroep
+De begeleidingsgroep bevat nog extra belanghebbenden en geïnteresseerden. Heb jij ook interesse omhier deel van uit te maken? Laat het ons weten!
 
--to do-
+- TACO cvba
+- LV Dermaut
+- Vlaamse Milieumaatschappij (VMM)
+- Agentschap voor Natuur en Bos
+- Vlakwa
+- Hydroscan nv
+- Sumaqua bv
+- KnowH2O (nl)
+- KWR (nl)
+- Proefcentrum Fruitteelt vzw
+- Proefcentrum voor Sierteelt
+- Praktijkpunt Landbouw Vlaams-Brabant
+- Provincie Oost-Vlaanderen
+- Provincie West-Vlaanderen
+- Provincie Antwerpen
+- Provincie Limburg 
