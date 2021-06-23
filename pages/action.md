@@ -16,7 +16,7 @@ voor de teler.
 
 ## Achtergrondinformatie
 
-[Hier](sarahgarre.github.io/op-peil/documentation) kan je heel wat rapporten, filmpjes en andere projecten rond peilgestuurde drainage vinden.
+[Hier](https://sarahgarre.github.io/op-peil/documentation) kan je heel wat rapporten, filmpjes en andere projecten rond peilgestuurde drainage vinden.
 
 ## Geschiktheidstool (VITO, BDB)
 
