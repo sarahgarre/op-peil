@@ -7,7 +7,7 @@ tags: [project]
 image: index.png
 ---
 
-![projectlogo](./assets/img/logo_oppeil_long)
+![projectlogo](./assets/img/logo_oppeil_long.png)
 
 OP-PEIL wil op korte termijn de doorbraak van peilgestuurde drainagesystemen (PGD),
 die zowel maatschappelijk als landbouwkundig rendabel en effectief zijn, in Vlaanderen realiseren. 
