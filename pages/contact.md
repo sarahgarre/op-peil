@@ -15,7 +15,7 @@ W. De Croylaan 48
 ## Projectpartners
 #### [Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)](https://www.ilvo.vlaanderen.be)
 
-Sarah Garré  
+Sarah Garré, Guillaume Blanchy  
 Caritasstraat 39  
 9090 Melle  
 
