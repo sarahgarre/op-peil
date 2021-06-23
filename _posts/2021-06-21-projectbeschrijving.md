@@ -4,10 +4,8 @@ title: "Projectinformatie"
 author: "Sarah Garre"
 categories: project
 tags: [project]
-image: index.png
+image: logo_oppeil_long.png
 ---
-
-![projectlogo](./assets/img/logo_oppeil_long.png)
 
 OP-PEIL wil op korte termijn de doorbraak van peilgestuurde drainagesystemen (PGD),
 die zowel maatschappelijk als landbouwkundig rendabel en effectief zijn, in Vlaanderen realiseren. 
@@ -28,3 +26,5 @@ met de nadruk op het aanleggen van een haalbaar en financieel rendabel PGD-syste
 aan de hand van demonstratieactiviteiten en workshops.
 
 Meer informatie over [OP-PEIL](https://sarahgarre.github.io/op-peil/project) kan je hier vinden.
+
+![illustratie PGD principe](./assets/img/index.png)
