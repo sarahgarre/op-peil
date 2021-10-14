@@ -45,7 +45,7 @@ in Europese kustregio’s. In Vlaanderen werken we rond twee cases: enerzijds al
 stelsel, voor hergebruik door landbouw. De Vlaamse partners zijn Vlakwa, Aquafin, De Watergroep, Proefstation 
 voor de Groententeelt, VITO, KWR en Stad Mechelen.
 
-### [Drainage Plus](www.agrobeheercentrum.be/Projecten/Drainage-Plus) - afgelopen
+### [Drainage Plus](https://www.agrobeheercentrum.be/Projecten/Drainage-Plus) - afgelopen
 Dit project droeg via demonstratie, begeleiding en kennisuitwisseling bij tot een zo efficiënt mogelijke 
 waterconservering in het gehele gebied van Plaatselijke Groep Leader Kempen & Maasland. Om dat te bereiken 
 stelden de projectpromotoren volgende doelstellingen voorop:
