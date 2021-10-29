@@ -50,6 +50,8 @@ Op einde van teeltseizoen 2022 : ombouw drainage voor peilsturing (op kosten pro
 *	Perceel draineert richting gracht waar ook in de zomer meestal water in aanwezig is
 *	Is gedraineerd of er zijn plannen om te draineren 
 *	(Heeft aardappelen in teeltrotatie ->  is een pluspunt maar geen must )
+
+![Verziltingskaart](./assets/img/verziltingskaart.PNG "verziltingskaart")
   
 ### Uitvoerende partners: 
 ILVO en Inagro
@@ -67,7 +69,7 @@ of
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="./assets/img/Garre.png" style="zoom:70%;  float:left; padding:0.7em"/>
+<img src="./assets/img/Garre.jpg" style="zoom:70%;  float:left; padding:0.7em"/>
 <b>Sarah Garre / ILVO</b>  &rarr;09/272.28.66 <br>
 </p>
 </div>
