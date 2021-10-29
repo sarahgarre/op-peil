@@ -7,11 +7,11 @@ tags: [about,sample]
 image: verziltingskaart.png
 ---
 
-# Aan de slag met peilgestuurde drainage : 
-## water bufferen én verzilting tegen gaan op je perceel?
+# Aan de slag met peilgestuurde drainage :  water bufferen én verzilting tegen gaan op je perceel?
 
-Inagro en ILVO zijn op zoek naar een perceel waar het zout grondwater maar een paar meter diep zit en waar we kunnen testen of het gebruik van peilgestuurde drainage kan helpen om water te bufferen en verzilting tegen te gaan door zoet water langer vast te houden in de bodem. Wij dekken kosten van installatie en opvolging van effecten van de peilsturing. Onze polders hebben van nature zout water in de bodem. Door het insijpelen van regenwater zijn er ook zoetwaterlenzen ontstaan, maar die zijn niet overal even groot. Ligt je perceel op een zone met ondiep zout water of merk je zelf je dat verzilting van je bodem soms kritisch wordt en zie je het wel zitten om slimmer om te gaan met drainage: dan ben jij wie we zoeken!
-Wat is peilgestuurde drainage?
+*Inagro en ILVO zijn op zoek naar een perceel waar het zout grondwater maar een paar meter diep zit en waar we kunnen testen of het gebruik van peilgestuurde drainage kan helpen om water te bufferen en verzilting tegen te gaan door zoet water langer vast te houden in de bodem. Wij dekken kosten van installatie en opvolging van effecten van de peilsturing. Onze polders hebben van nature zout water in de bodem. Door het insijpelen van regenwater zijn er ook zoetwaterlenzen ontstaan, maar die zijn niet overal even groot. Ligt je perceel op een zone met ondiep zout water of merk je zelf je dat verzilting van je bodem soms kritisch wordt en zie je het wel zitten om slimmer om te gaan met drainage: dan ben jij wie we zoeken!*
+
+## Wat is peilgestuurde drainage?
 Bij peilgestuurde drainage monden de drains uit in een verzameldrain waarin het waterpeil in een regelput gestuurd kan worden in plaats van rechtstreeks in de beek. Bij conventionele drainage kan je het peil in je perceel niet zelf sturen en ben je volledig afhankelijk de peilen in de beek en het weer. Peilgestuurde drainage maakt het wel mogelijk om het peil meer zelf te beheren. De techniek wordt in Nederland al tientallen jaren toegepast bijvoorbeeld in de zandgronden voor de bloembollenteelt en recenter ook op andere locaties met minder doorlatende gronden. 
 Het project OP-PEIL bestudeert nu ook de kansen die peilgestuurde drainage kan bieden in een poldercontext, waarbij naast het vertragen en bufferen van zoet water ook het verlagen van het zoet/zout-grensvlak mee beschouwd wordt.
 
