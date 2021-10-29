@@ -3,7 +3,7 @@ layout: post
 title: "Op zoek naar een perceel"
 author: "Sarah Garré"
 categories: about
-tags: [about,sample]
+tags: [sample]
 image: verziltingskaart.png
 ---
 
