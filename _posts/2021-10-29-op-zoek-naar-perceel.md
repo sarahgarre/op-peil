@@ -15,14 +15,14 @@ Wat is peilgestuurde drainage?
 Bij peilgestuurde drainage monden de drains uit in een verzameldrain waarin het waterpeil in een regelput gestuurd kan worden in plaats van rechtstreeks in de beek. Bij conventionele drainage kan je het peil in je perceel niet zelf sturen en ben je volledig afhankelijk de peilen in de beek en het weer. Peilgestuurde drainage maakt het wel mogelijk om het peil meer zelf te beheren. De techniek wordt in Nederland al tientallen jaren toegepast bijvoorbeeld in de zandgronden voor de bloembollenteelt en recenter ook op andere locaties met minder doorlatende gronden. 
 Het project OP-PEIL bestudeert nu ook de kansen die peilgestuurde drainage kan bieden in een poldercontext, waarbij naast het vertragen en bufferen van zoet water ook het verlagen van het zoet/zout-grensvlak mee beschouwd wordt.
 
-Het project OP-PEIL (VLAIO LA-traject)
+## Het project OP-PEIL (VLAIO LA-traject)
 Naast het effect van peilgestuurde drainage op het zoet/zoutgrensvlak in een poldercontext wordt in dit project ook gewerkt aan
 *	Een geschiktheidskaart voor peilgestuurde drainage (werkpakket 1)
 *	Subirrigatie als toegevoegde waarde bij infrastructuur voor peilgestuurde drainage (werkpakket 2)
 *	Mogelijkheden voor collectief peilbeheer in combinatie met peilgestuurde drainage (werkpakket 4)
+
 Daarnaast zal er ook een begeleidingstraject zijn voor landbouwers in heel Vlaanderen die willen starten met peilgestuurde drainage (contact: Tom Coussement, BDB). 
-Meer informatie over het project kan je vinden op www.peilgestuurdedrainage.be. 
- 
+
 ## Proef impact van peilgestuurde drainage in poldercontext
 ### Doelstelling
 Onderzoeken of we met lokale peilsturing optimale omstandigheden voor akkerbouw kunnen creëren in de poldercontext en tegelijk de druk op de zoetwaterlens in het perceel beter kunnen opbouwen. 
