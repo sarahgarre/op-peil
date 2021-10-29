@@ -29,18 +29,22 @@ Daarnaast zal er ook een begeleidingstraject zijn voor landbouwers in heel Vlaan
 ### Doelstelling
 Onderzoeken of we met lokale peilsturing optimale omstandigheden voor akkerbouw kunnen creëren in de poldercontext en tegelijk de druk op de zoetwaterlens in het perceel beter kunnen opbouwen. 
 ### Wat wordt er gemeten op het proefperceel?
-Jaar 1 (jan/feb 2022-okt 2022)
+#### Jaar 1 (jan/feb 2022-okt 2022)
 Selectie perceel en opvolgen perceel en teelt (= vastleggen nulsituatie) :
 *	Gewas (gewasgroei, opbrengst en kwaliteit)
 *	Vochtbehoefte gewas (sensoren en stalen bodemvochtbepaling)
 *	Grondwaterstand (via automatische logging) en zoutconcentraties in het grondwater in min. 2 peilbuizen die aan de randen van het perceel worden geplaatst
 *	Waterkwaliteit en oppervlaktewaterstanden in nabijgelegen polderwaterloop
 *	Bepaling bodemtextuur,vochtretentie en infiltratiecapaciteit
+
 Op einde van teeltseizoen 2022 : ombouw drainage voor peilsturing (op kosten project).
-Jaar 2 en jaar 3 (seizoen 2023 -2024)
+
+#### Jaar 2 en jaar 3 (seizoen 2023 -2024)
 *	Analoge opvolging zoals in jaar 1
 *	Sturing van het peil in overleg tussen onderzoeker en landbouwer
 *	Opvolging effect zoet/zoutgrensvlak door plaatsing ERT transect in het veld 
+
+
 ### Een goed proefperceel
 *	Ligt in een gebied met ondiep zoet/zout grensvlak (witte / licht blauwe locaties  [verziltingskaart](https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=64950.3%2C221835.8&res=9.800000000030865&layers=n%3Aomwrgbmrvl%3Bo%3Aref%2Cn%3Agrb_sel%3Bo%3Aref%2Cn%3Ato%5C%3Ato_topnzw_2009_raster_10k_tr%3Bo%3Aref%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averzilting%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_con_mmv%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_con_mtaw%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_opt_mtaw%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_opt_mmv%3Bo%3Adov%3Bt%3Awms%3Bop%3A0.75%2Cn%3Agw_varia%5C%3Averziltingskaart_2017_datapunten%3Bo%3Adov%3Bt%3Awms) )
 *	Perceel draineert richting gracht waar ook in de zomer meestal water in aanwezig is
