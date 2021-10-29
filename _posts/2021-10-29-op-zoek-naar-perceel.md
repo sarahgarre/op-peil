@@ -54,7 +54,7 @@ Interesse? Laat dit weten aan:
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="./assets/img/DHuits.png" style="zoom:70%;  float:right; padding:0.7em"/>
+<img src="./assets/img/Huits.jpg" style="zoom:70%;  float:right; padding:0.7em"/>
 <b>Dominique Huits / Inagro</b>  &rarr;051/27.33.88  <br>
 </p>
 </div>
