@@ -52,17 +52,21 @@ ILVO en Inagro
 
 Interesse? Laat dit weten aan:
 
-Inagro, Dominique Huits
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="./assets/img/DHuits.png" style="zoom:70%;  float:right; padding:0.7em"/>
+<b>Dominique Huits / Inagro</b>  &rarr;051/27.33.88  <br>
+</p>
+</div>
 
-051/27.33.88
+of 
 
-Dominique.huits@inagro.be
+<div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
+<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<img src="./assets/img/DHuits.png" style="zoom:70%;  float:right; padding:0.7em"/>
+<b>Sarah Garre / ILVO</b>  &rarr;09/272.28.66 <br>
+</p>
+</div>
 
-of
 
-ILVO, Sarah Garré
-
-09/272.28.66
-
-Sarah.garre@ilvo.vlaanderen.be 
 
