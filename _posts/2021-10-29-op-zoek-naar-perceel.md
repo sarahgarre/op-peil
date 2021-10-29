@@ -70,7 +70,7 @@ of
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="./assets/img/Garre.jpg" style="zoom:70%;  float:left; padding:0.7em"/>
-<b>Sarah Garre / ILVO</b>  &rarr;09/272.28.66 <br>
+<b>Sarah Garre / ILVO </b>  &rarr;09/272.28.66 <br>
 </p>
 </div>
 
