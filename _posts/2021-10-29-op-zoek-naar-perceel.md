@@ -4,7 +4,7 @@ title: "Op zoek naar een perceel"
 author: "Sarah Garré"
 categories: sample
 tags: [sample]
-image: verziltingskaart.png
+image: verziltingskaart.PNG
 ---
 
 # Aan de slag met peilgestuurde drainage :  water bufferen én verzilting tegen gaan op je perceel?
