@@ -2,7 +2,7 @@
 layout: post
 title: "Op zoek naar een perceel"
 author: "Sarah Garré"
-categories: about
+categories: sample
 tags: [sample]
 image: verziltingskaart.png
 ---
@@ -40,7 +40,7 @@ Jaar 2 en jaar 3 (seizoen 2023 -2024)
 *	Sturing van het peil in overleg tussen onderzoeker en landbouwer
 *	Opvolging effect zoet/zoutgrensvlak door plaatsing ERT transect in het veld 
 ### Een goed proefperceel
-*	Ligt in een gebied met ondiep zoet/zout grensvlak (witte / licht blauwe locaties kaart)
+*	Ligt in een gebied met ondiep zoet/zout grensvlak (witte / licht blauwe locaties  [verziltingskaart](https://www.dov.vlaanderen.be/portaal/?module=verkenner&pos=64950.3%2C221835.8&res=9.800000000030865&layers=n%3Aomwrgbmrvl%3Bo%3Aref%2Cn%3Agrb_sel%3Bo%3Aref%2Cn%3Ato%5C%3Ato_topnzw_2009_raster_10k_tr%3Bo%3Aref%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averzilting%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_con_mmv%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_con_mtaw%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_opt_mtaw%3Bo%3Adov%3Bt%3Awms%3Bv%3An%2Cn%3Agw_varia%5C%3Averziltingskaart_2014_2017_opt_mmv%3Bo%3Adov%3Bt%3Awms%3Bop%3A0.75%2Cn%3Agw_varia%5C%3Averziltingskaart_2017_datapunten%3Bo%3Adov%3Bt%3Awms)
 *	Perceel draineert richting gracht waar ook in de zomer meestal water in aanwezig is
 *	Is gedraineerd of er zijn plannen om te draineren 
 *	(Heeft aardappelen in teeltrotatie ->  is een pluspunt maar geen must )
