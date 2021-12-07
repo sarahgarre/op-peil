@@ -15,13 +15,13 @@ W. De Croylaan 48
 ## Projectpartners
 #### [Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)](https://www.ilvo.vlaanderen.be)
 
-Sarah Garré, Guillaume Blanchy  
+Sarah Garré, Guillaume Blanchy, Ali Mehdmanoostkotlar 
 Caritasstraat 39  
 9090 Melle  
 
 #### [Provinciaal Proefcentrum voor de Groenteteelt Oost-Vlaanderen (PCG)](https://www.pcgroenteteelt.be/)
 
-Elise Vandewoestijne   
+Anne Waverijn, Elise Vandewoestijne   
 Karreweg 6  
 9770 Kruisem  
 
@@ -33,7 +33,7 @@ Duffelsesteenweg 101
 
 #### [INAGRO](https://www.inagro.be)
 
-Dominique Huits  
+Bert Everaert, Dominique Huits  
 Ieperseweg 87   
 8800 Rumbeke-Beitem  
 
@@ -45,7 +45,7 @@ Boeretang 200
 
 #### [Boerennatuur Vlaanderen](https://www.boerennatuur.be)
 
-Sven Defrijn, Steve Meuris  
+Maarten Raman, Sven Defrijn
 Diestsevest 40  
 3000 Leuven  
 
