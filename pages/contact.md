@@ -19,13 +19,13 @@ Sarah Garré, Guillaume Blanchy
 Caritasstraat 39  
 9090 Melle  
 
-#### [Proefcentrum voor de Groententeelt (PCG)](https://www.pcgroenteteelt.be/)
+#### [Provinciaal Proefcentrum voor de Groenteteelt Oost-Vlaanderen (PCG)](https://www.pcgroenteteelt.be/)
 
 Elise Vandewoestijne   
 Karreweg 6  
 9770 Kruisem  
 
-#### [Proefstation voor de Groententeelt (PSKW)](https://www.proefstation.be/)
+#### [Proefstation voor de Groenteteelt (PSKW)](https://www.proefstation.be/)
 
 Joris De Nies  
 Duffelsesteenweg 101  
