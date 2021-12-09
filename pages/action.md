@@ -6,7 +6,7 @@ permalink: /action
 ---
 
 # Zelf aan de slag met peilgestuurde drainage?
-OP-PEIL zet sterk in op co-creatie. We zettten samen met telers case-studies op en telers die zelf aan de slag willen worden hierin begeleid. 
+OP-PEIL zet sterk in op co-creatie. We zetten samen met telers case-studies op en telers die zelf aan de slag willen worden hierin begeleid. 
 We organiseren demonstratieactiviteiten op het veld, samen met workshops in de belangrijkste productieregio’s van het land waarbij je zelf met de evaluatietool voor peilgestuurde drainage aan de slag 
 kan gaan. De wisselwerking tussen onderzoekers en telers zal de evaluatietool stapsgewijs verbeteren. 
 OP-PEIL wil minstens 200 unieke bedrijven bereiken en begeleiden bij hun vragen rond PGD. 
@@ -22,7 +22,7 @@ voor de teler.
 Op basis van de resultaten en inzichten uit dit en voorgaand onderzoek stellen BDB en VITO een Vlaamse geschiktheidskaart voor peilgestuurde drainage op, samen met een evaluatietool voor landbouwpercelen. Deze kaart focust zich onder andere op de hersteldruk van het waterpeil die op een bepaald perceel te verwachten valt, hetgeen essentieel is voor het opbrengstverhogende effect van PGD. Deze informatie wordt vervolgens in een gebruiksvriendelijke evaluatietool ingebouwd, zodat geïnteresseerde telers aan de hand van een stap-voor-stap bevraging een goed zicht krijgen op de mogelijkheden van peilgestuurde drainage voor hun concrete situatie. De geschiktheidskaart en evaluatietool worden  beschikbaar gesteld via het WatchITgrow platform van VITO. Een eerste versie zou beschikbaar moeten zijn tegen eind 2022. Hou deze website in de gaten!
 
 ## Begeleidingstraject 
-We adviseren en volgen de invoering van peilgestuurde drainage op je perceel op. Daarbij delen we het traject op in fases: (1) diagnose vraag, (2) geschiktheidsanalyse perceel, (3) ontwerp systeem peilsturing en omvorming, (4) aanleg, (5) opvolging en begeleiding onderhoud, (6) gebruik en peilbeheer, (7) monitoring (gebruik, plant, bodem) en (8) evaluatie van het systeem. Zeer beperkte metingen zullen worden uitgevoerd om de performantie van de omvorming en het gebruik te evalueren. De resultaten van al deze trajecten zullen op het eind van het project gebundeld en gerapporteerd worden, met respect voor GDPR-regels.
+We adviseren en volgen de invoering van peilgestuurde drainage op je perceel op. Daarbij delen we het traject op in fases: (1) diagnose vraag, (2) geschiktheidsanalyse perceel, (3) ontwerp systeem peilsturing en omvorming, (4) aanleg, (5) opvolging en begeleiding onderhoud, (6) gebruik en peilbeheer, (7) monitoring (gebruik, plant, bodem) en (8) evaluatie van het systeem. Zeer beperkte metingen zullen worden uitgevoerd om de performantie van de omvorming en het gebruik te evalueren. De resultaten van al deze trajecten zullen op het eind van het project gebundeld en gerapporteerd worden, met respect voor privacy/GDPR-regels.
 
 Wil u graag begeleid worden in uw project? Neem contact op met een van onderstaande partners die de begeleiding verzorgen:
 - Vlaams-Brabant - BDB / Tom Coussement -> +32 16 31 09 22
