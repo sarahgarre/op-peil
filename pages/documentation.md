@@ -16,13 +16,15 @@ Stuyt et al. 2012. 33.[Meer Water Met Regelbare Drainage?](./assets/docu/STOWA-2
 
 ### Webinar door Boerennatuur Vlaanderen 15 februari 2021
 Inhoud:
-00:00 - Intro  
+
 02:32 - Peilgestuurde drainage: Filmpje 
+
 04:46 - Peilgestuurde drainage: Voor- & nadelen  
+
 25:23 - Peilgestuurde drainage: Aanleg & kostprijs  
+
 34:20 - Subirrigatie: Wat, voordelen, aanleg, kostprijs  
-46:32 - Vragen  
-58:40 - Outro  
+ 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAASnJX6puc" title="Webinar peilgestuurde drainage en subirrigatie" frameborder="0" allowfullscreen></iframe>
 
