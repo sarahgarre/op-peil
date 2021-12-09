@@ -27,6 +27,9 @@ Inhoud:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAASnJX6puc" title="Webinar peilgestuurde drainage en subirrigatie" frameborder="0" allowfullscreen></iframe>
 
 ## Gerelateerde projecten
+### [WATERRESERVE](https://www.proefstation.be/project/waterreserve)
+Het idee achter WaterReserve is ontstaan op de kruising tussen de concrete vraag van tuinbouwbedrijven die op zoek zijn naar meer water en wateropslag in hun bodem en de vraag van diverse waterbeheerders die op zoek zijn naar afzetmogelijkheden voor hemelwater.Een eerste hoofddoelstelling van WaterReserve is de uitwerking van een technisch luik dat tegemoetkomt aan de concrete vragen van land- en tuinbouwbedrijven. Met tastbare acties op verschillende praktijkpercelen wordt water opgehouden en/of geïnfiltreerd (subirrigatie). De tweede doelstelling wil inzichten verkrijgen in de effecten van die acties. 
+
 ### [Boer.Beek.Bodem](https://www.boerennatuur.be/beek-boer-bodem/)
 {beek.boer.bodem} wil in het afstroomgebied van de Aa (Herentals, Kasterlee, Lille en Vorselaar) inzetten op 
 maatregelen die het overstromingsrisico reduceren, de waterkwaliteit verbeteren en landbouwbedrijven 
