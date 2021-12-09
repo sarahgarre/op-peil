@@ -26,7 +26,8 @@ aan de hand van demonstratieactiviteiten en workshops.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I7IEWhWdID4" title="Animatie peilgestuurde drainage" frameborder="0" allowfullscreen></iframe>
 
-De ambitie van het project om de bijdrage van PGD aan een meer duurzame productie in land- en tuinbouw 
+
+De ambitie van het project is om de bijdrage van PGD aan een meer duurzame productie in land- en tuinbouw 
 in kaart te brengen en te demonstreren. Om dit te realiseren zetten we zowel in op het stimuleren en uitvoeren 
 van participatieve veranderingstrajecten bij telers (WP1 en WP5) en op het demonstreren van innovatieve toepassingen 
 van PGD (WP2 en WP3). De meerwaarde die de omvorming van klassieke drainage naar PGD kan betekenen in het tegengaan 
