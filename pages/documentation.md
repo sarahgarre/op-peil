@@ -57,3 +57,8 @@ meerwaarde van PGD en waterconservering in de brede zin naar landbouwers en bele
 Dat gebeurde via demodagen, artikels in relevante pers, toelichtingen op vergaderingen van bedrijfsgilden, 
 sectorgroepen, landbouwraden,....
 
+### [TOPSOIL GOFRESH](https://northsearegion.eu/topsoil/project-output/) 
+Het TOPSOIL-project verkent de mogelijkheden om de bovenste bodemlagen te gebruiken om de huidige en toekomstige waterproblemen op te lossen. Het kijkt onder de oppervlakte van de grond, voorspelt en vindt oplossingen voor klimaatgerelateerde bedreigingen, zoals overstromingen tijdens natte periodes en droogte tijdens warmere seizoenen.
+De algemene doelstelling van het project is de gezamenlijke ontwikkeling van methoden om de bovenste 30 m van de ondergrond te beschrijven en te beheren, teneinde de klimaatbestendigheid van het Noordzeegebied te verbeteren. Daarnaast zal het project een praktische implementatie van oplossingen demonstreren in 16 proefprojecten.
+[Meer lezen](./assets/docu/topsoilgofresh.pdf) 
+
