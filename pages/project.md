@@ -46,3 +46,5 @@ werkpakket rond co-creatie en disseminatie begeleiding op het terrein voor teler
 omvorming willen overgaan.
 
 >OP-PEIL is een LA-traject gefinancierd door het Vlaams Agentschap Innoveren en Ondernemen - VLAIO tussen Nov 2021 - Okt 2025.
+
+![EU](./assets/img/EU_fin.jpg )
