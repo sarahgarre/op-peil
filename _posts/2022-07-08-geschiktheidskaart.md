@@ -22,6 +22,7 @@ Een eerste versie van de geschiktheidskaart wordt binnenkort beschikbaar gemaakt
 
 
 de Louw, P., van Baaren, E., Kaandorp, V., Rodriguez, S. G., Dupon, E., Huits, D., van Camp, M., Gent, U., Walraevens, K., Gent, U., & Vandenbohede, A. (2019). TOPSOIL - GO-FRESH Vlaanderen Potenties om de zoetwaterbeschikbaarheid te verbeteren (p. 100).
+
 Van Bakel, J. M. M., van den Eertwegh, G., Massop, H. Th. L., & Brandsma, J. (2013). Klimaatadaptieve drainage. Landelijke geschiktheid van conventionele, samengestelde peilgestuurde drainage en klimaatadaptieve drainage [FutureWater rapport 118].
 
 
