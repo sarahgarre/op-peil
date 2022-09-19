@@ -36,4 +36,5 @@ verandering van het peil dan een lichte bodem.
 |<b>Op elke locatie hebben we drie peilbuizen om het waterpeil en zoutgehalte onafhankelijk te meten op 1.5, 2 en 3 meter onder maaiveld.</b>|
 
 
-Meer informatie over dit experiment: ![poster](./assets/img/posterWP3.png)
+Meer informatie over dit experiment: 
+![poster](./assets/docu/wetenschapsmarkt_poster_OPPEIL_final_English.pdf)
