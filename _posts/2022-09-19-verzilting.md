@@ -14,7 +14,9 @@ neerslagoverschot en in de zomer krimpen de lenzen door verdamping. Onder droge 
 zoetwaterlenzen verdwijnen. Dan bereikt het zoute grondwater de wortelzone door capillaire opstijging in de bodem. 
 De verzilting die dan optreedt kan gewasschade veroorzaken. 
 
-![more picture of pgd](./assets/img/field_site.png)
+|![field site](./assets/img/field_site.png)|
+|:--:|
+|<b>Plan van het experiment met de locaties van de peilbuizen in het peilgestuurde drainage veld (CD1, CD2, CD3) en in het referentie veld (RD1, RD2, RD3).</b>|
 
 In de Middenkustpolder gaan we op een proefperceel na of het risico op verzilting door dat zoute grondwater kan vermeden 
 worden door het ombouwen van een klassiek drainagesysteem naar peilgestuurde drainage (PGD). Dergelijk systeem kan immers 
@@ -29,6 +31,9 @@ water in de bodemporiën. Daarnaast zullen we ook de effecten van beide drainage
 evalueren. Een bijkomende leerervaring bestaat uit het aansturen van het peil in een kleibodem, die trager reageert op een 
 verandering van het peil dan een lichte bodem. 
 
-![three piezometers](./assets/img/piezometers.png)
+|![three piezometers](./assets/img/piezometers.png)|
+|:--:|
+|<b>Op elke locatie hebben we drie peilbuizen om het waterpeil en zoutgehalte onafhankelijk te meten op 1.5, 2 en 3 meter onder maaiveld.</b>|
+
 
 Meer informatie over dit experiment: ![poster](./assets/img/posterWP3.png)
