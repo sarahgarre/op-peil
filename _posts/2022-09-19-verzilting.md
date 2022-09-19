@@ -37,4 +37,4 @@ verandering van het peil dan een lichte bodem.
 
 
 Meer informatie over dit experiment: 
-![poster](./assets/docu/wetenschapsmarkt_poster_OPPEIL_final_English.pdf)
+[poster](./assets/docu/wetenschapsmarkt_poster_OPPEIL_final_English.pdf)
