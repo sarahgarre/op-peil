@@ -26,7 +26,9 @@ Mogelijke vragen bij de omvorming naar een nieuw peilgestuurd drainagesysteem:
 
 * Welk peilopzet hanteer ik best na het sluiten van de drainage? 
 
-Interesse in bedrijfsbegeleiding op uw bedrijf? Contacteer dan één van de volgende onderzoekers: 
+Interesse in bedrijfsbegeleiding op uw bedrijf? 
+
+Contacteer dan één van de volgende onderzoekers: 
 
 Dries De Bièvre (BDB) - ddebievre-(at)-bdb.be – 016/31.09.22 
 
