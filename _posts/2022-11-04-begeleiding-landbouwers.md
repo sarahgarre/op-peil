@@ -38,7 +38,10 @@ Anne Waverijn (PCG) - anne.waverijn-(at)-pcgroenteteelt.be - 09 331 60 87
 
 Maarten Raman, Leen Gruyters (Boerennatuur Vlaanderen) - maarten.raman-(at)-boerennatuur.be 
 
-|![regelput](./assets/img/regelput.jpg)|![bodemonderzoek](./assets/img/bodemonderzoek.jpg)|
-|:--:|:--:|
-|<b>De opvolging van een bestaande PGD kan onder meer het beheer van de regelput omvatten. </b>|<b> Bij een terreinbezoek wordt de aard van het bodemmateriaal tussen het maaiveld en de drainagediepte nagekeken.</b> |
+|![regelput](./assets/img/regelput.jpg)|
+|:--:|
+|<b>De opvolging van een bestaande PGD kan onder meer het beheer van de regelput omvatten. </b>|
+|:--:|
+|![bodemonderzoek](./assets/img/bodemonderzoek.jpg)|
+|<b> Bij een terreinbezoek wordt de aard van het bodemmateriaal tussen het maaiveld en de drainagediepte nagekeken.</b> |
 
