@@ -13,9 +13,9 @@ heeft voor de installatie van peilgestuurde drainage. Je kan een bepaalde locati
 
 ![Screenshot kaart](../assets/img/potentiekaart_screenshot.png)
 
-Figuur 1: Screenshot van de geschiktheidskaart voor peilgestuurde drainage die beschikbaar is op [waterradar.be](https://www.waterradar.be/). 
+_Figuur 1: Screenshot van de geschiktheidskaart voor peilgestuurde drainage die beschikbaar is op [waterradar.be](https://www.waterradar.be/). 
 Selecteer de kaart 'PGD (beta)' via de 'Extra kaarten' optie linksboven om de kaart te visualiseren. Rechtsboven kan je 
-via 'Locatie zoeken' inzoomen op een gewenste locatie. 
+via 'Locatie zoeken' inzoomen op een gewenste locatie._ 
 
 In deze kaart worden percelen geklasseerd in categorieën volgens potentie voor de installatie van peilgestuurde drainage 
 door de percelen te evalueren op 1) doorlaatbaarheid van de bodem 2) grondwateraanvoer 3) helling van het perceel. 
