@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Events
-category: action
-permalink: /action
+category: events
+permalink: /events
 ---
 
 # Events
