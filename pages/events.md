@@ -12,7 +12,7 @@ Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een 
 
 
 - Proefboerderij 'De Rusthoeve' - Op naar Efficiënt met Water - **WEBINAR**
-- 
+
   7 februari 2023, 19.00 – 20.30 uur
 
   In het Webinar van 7 februari besteden we aandacht aan drie onderzoeksprojecten, namelijk het project Ondergrond Beregenen, het demonstratieproject Innovatieve Drainage binnen het Living Lab Schouwen-Duiveland en Water voor Robuuste Fruitteelt en Akkerbouw.
