@@ -12,7 +12,7 @@ menu:
 - {name: 'Zelf aan de slag?',       url: 'action'}
 - {name: 'Nieuws',      url: 'sample-posts'}
 - {name: 'De partners',     url: 'contact'}
-- {name: 'Events',      url: 'Events'}
+- {name: 'Events',  url: 'events'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
