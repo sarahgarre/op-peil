@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subirrigatie: aanleg proefperceel op het Proefcentrum voor de Groententeelt in Kruishoutem"
+title: "Subirrigatie: aanleg proefperceel op het PCG in Kruishoutem"
 author: "Anne Waverijn, PCG"
 categories: sample
 tags: [sample]
