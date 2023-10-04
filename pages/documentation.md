@@ -4,6 +4,9 @@ title: Achtergrondinformatie
 category: documentation
 permalink: /documentation
 ---
+## Handleiding peilgestuurde drainage
+[Peilgestuurde drainage | Het handboek](https://oppeil.curve.space/peilgestuurde-drainage-het-handboek)
+
 ## Literatuur
 
 Elsen, Frank, and Tom Coussement. 2019. [Drainage +  Peilgestuurde drainage als alternatief voor klassieke drainage.](./assets/docu/Eindrapport-DrainagePlus.pdf) BDB.
