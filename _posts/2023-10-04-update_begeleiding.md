@@ -26,18 +26,18 @@ Anne Waverijn (PCG) - anne.waverijn@pcgroenteteelt.be - 09 331 60 87
 
 Maarten Raman (Boerennatuur Vlaanderen) - maarten.raman@boerennatuur.be – 0473 22 40 65
 
-|:--:|
-|![kaart](./assets/img/fig1_updatebegeleiding.png)|
-|<b>We beginnen met een kaartanalyse, om een eerste zicht te krijgen op de geschiktheid van een perceel voor peilgestuurde drainage</b>|
-|:--:|
-|![bodemonderzoek](./assets/img/fig2_updatebegeleiding.jpg)|
-|<b> Een bezoek aan het perceel is daarna essentieel om een goed inzicht te krijgen in de mogelijkheden voor PGD.</b> |
-|![terreinbezoek1](./assets/img/fig3_updatebegeleiding.jpg)|
-|:--:|
-|<b>Bij dit bezoek wordt de waterhuishouding en huidige drainage onderzocht om een passend advies op te maken.</b>|
-|:--:|
-|![terreinbezoek2](./assets/img/fig4_updatebegeleiding.jpg)|
-|<b> Uit gesprekken op terrein komt vaak waardevolle informatie.</b> |
-|:--:|
-|![fruitteelt](./assets/img/fig5_updatebegeleiding.jpg)|
-|<b>Ook vanuit de fruitteelt is er interesse om bestaande drainagesystemen peilgestuurd te maken.</b> |
+
+![kaart](./assets/img/fig1_updatebegeleiding.png)
+We beginnen met een kaartanalyse, om een eerste zicht te krijgen op de geschiktheid van een perceel voor peilgestuurde drainage
+
+![bodemonderzoek](./assets/img/fig2_updatebegeleiding.jpg)
+ Een bezoek aan het perceel is daarna essentieel om een goed inzicht te krijgen in de mogelijkheden voor PGD.
+ 
+![terreinbezoek1](./assets/img/fig3_updatebegeleiding.jpg)
+Bij dit bezoek wordt de waterhuishouding en huidige drainage onderzocht om een passend advies op te maken.
+
+![terreinbezoek2](./assets/img/fig4_updatebegeleiding.jpg)
+Uit gesprekken op terrein komt vaak waardevolle informatie.
+
+![fruitteelt](./assets/img/fig5_updatebegeleiding.jpg)
+Ook vanuit de fruitteelt is er interesse om bestaande drainagesystemen peilgestuurd te maken.
