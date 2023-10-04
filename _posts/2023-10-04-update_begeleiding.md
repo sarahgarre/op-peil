@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Stap in een begeleidingstraject voor peilgestuurde drainage!"
-author: "Anne Waverijn (PCG)"
+title: "Stap in!"
+author: "Anne Waverijn, PCG"
 categories: sample
 tags: [sample]
 image: fig3_updatebegeleiding.jpg
