@@ -26,9 +26,8 @@ Anne Waverijn (PCG) - anne.waverijn@pcgroenteteelt.be - 09 331 60 87
 
 Maarten Raman (Boerennatuur Vlaanderen) - maarten.raman@boerennatuur.be – 0473 22 40 65
 
-
-|![kaart](./assets/img/fig1_updatebegeleiding.png)|
 |:--:|
+|![kaart](./assets/img/fig1_updatebegeleiding.png)|
 |<b>We beginnen met een kaartanalyse, om een eerste zicht te krijgen op de geschiktheid van een perceel voor peilgestuurde drainage</b>|
 |:--:|
 |![bodemonderzoek](./assets/img/fig2_updatebegeleiding.jpg)|
