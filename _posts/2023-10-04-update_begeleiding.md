@@ -7,7 +7,7 @@ tags: [sample]
 image: fig3_updatebegeleiding.jpg
 ---
 
-Landbouwers begeleiden met peilgestuurde drainage
+## Landbouwers begeleiden met peilgestuurde drainage
 
 Hoewel we deze zomer minder last hadden van droogte in Vlaanderen, blijft het belangrijk om voorbereid te zijn op droogte en zoveel mogelijk water in de ondergrond op te slaan zonder de landbouwactiviteit te hinderen. Ook het beleid zet hier steeds meer op in. 
 OP-PEIL begeleidt daarom geïnteresseerde landbouwers bij de verkenning, de aanleg en beheer van peilgestuurde drainagesystemen. Daarbij bieden we advies op maat aan. Diverse landbouwers hebben de afgelopen periode contact opgenomen als ze vragen hadden bij de aanleg en opvolging van hun drainagesysteem. Op basis van een eerste gesprek en studie van kaartmateriaal maakten de onderzoekers een inschatting van de haalbaarheid van peilgestuurde drainage op het specifieke perceel. Vervolgens was er bij interesse een terreinbezoek om een meer gedetailleerd zicht te krijgen op de specifieke situatie, om uiteindelijk een gefundeerd advies te kunnen afleveren.
@@ -33,7 +33,7 @@ Maarten Raman (Boerennatuur Vlaanderen) - maarten.raman@boerennatuur.be – 0473
 |:--:|
 |![bodemonderzoek](./assets/img/fig2_updatebegeleiding.jpg)|
 |<b> Een bezoek aan het perceel is daarna essentieel om een goed inzicht te krijgen in de mogelijkheden voor PGD.</b> |
-|![terreinbezoek1](./assets/img/fig3_updatebegeleiding.png)|
+|![terreinbezoek1](./assets/img/fig3_updatebegeleiding.jpg)|
 |:--:|
 |<b>Bij dit bezoek wordt de waterhuishouding en huidige drainage onderzocht om een passend advies op te maken.</b>|
 |:--:|
