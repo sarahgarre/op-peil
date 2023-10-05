@@ -12,12 +12,18 @@ Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een 
 - Studiedag 'Opportuniteiten voor peilgestuurde drainage' - **Onderzoeksresultaten, terreinbezoek, technologiemarkt**
 
   27 november 2023 9:45 - 13:45
-  Proefcentrum voor de groententeelt (PCG)
+  
+  Proefcentrum voor de groententeelt (PCG),
   Karreweg 6, B-9770 Kruishoutem
+  
   9:45 Welkom
+  
   10:00 Tussentijdse resultaten OP-PEIL
+  
   12:00 Broodjeslunch
+  
   12:45 Technologiemarkt
+  
   13:45 Terreinbezoek
   
   [Inschrijven?](https://forms.office.com/e/F34JBAFbTt)
