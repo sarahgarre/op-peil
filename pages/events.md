@@ -9,7 +9,20 @@ permalink: /events
 Er leeft wat rond waterbeheer en peilgestuurde drainage in Vlaanderen. 
 Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een terreinbezoek, over workshops tot een webinar.
 
+- Studiedag 'Opportuniteiten voor peilgestuurde drainage' - **Onderzoeksresultaten, terreinbezoek, technologiemarkt**
 
+  27 november 2023 9:45 - 13:45
+  Proefcentrum voor de groententeelt (PCG)
+  Karreweg 6, B-9770 Kruishoutem
+  9:45 Welkom
+  10:00 Tussentijdse resultaten OP-PEIL
+  12:00 Broodjeslunch
+  12:45 Technologiemarkt
+  13:45 Terreinbezoek
+  
+  [Inschrijven?](https://forms.office.com/e/F34JBAFbTt)
+
+  [Meer info](https://www.canva.com/design/DAFuzWa8CVk/Z5PYIZLTIyW9lzbPpJFzSg/edit?utm_content=DAFuzWa8CVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Proefboerderij 'De Rusthoeve' - Op naar Efficiënt met Water - **WEBINAR**
 
