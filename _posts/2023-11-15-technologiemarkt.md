@@ -19,15 +19,22 @@ Volgende bedrijven zullen aanwezig zijn:
 
 ![logo_iothings.png](./assets/img/logo_iothings.png)  
 
-Io-Things is a team of professional computer science and electronics experts who design, produce and assemble PCB's and 
-software. At Io-Things, we are dedicated to bring your projects to the market, taking into account both time and budget. 
-An iteration from zero to prototype typically takes us 3 months.     
+Io-Things is gespecialiseerd in het vergaren van sensorgegevens via Internet of Things-toepassingen. 
+Onze intelligente IoT-applicaties vinden toepassing in landbouw, afvalbeheer, ongediertebestrijding en machineonderhoud. 
+Naast het op maat ontwikkelen van nieuwe software- en hardware-architecturen, biedt Io-Things kant-en-klare IoT-sensoren aan. 
+Hiermee kunnen bodemvocht, waterspanning, neerslag, stamdiametervariatie, vloeistofniveau en vulgraad accuraat worden 
+gemeten en gevisualiseerd. Ontdek onze oplossingen voor realtime inzichten en efficiëntie, specifiek afgestemd op diverse 
+behoeften. Io-Things: uw partner voor precisie, innovatie en naadloze connectiviteit in de wereld van IoT.
 
 ### [Crodeon ](https://www.crodeon.com/)
 ![logo_crodeon.PNG](./assets/img/logo_crodeon.PNG)  
 
-Crodeon is a leading manufacturer of plug & play end-to-end monitoring systems. Our technology is used by companies all 
-over Europe. We focus on 3 markets: water, weather and indoor climate.   
+Crodeon Technologies is een vooraanstaande producent van draadloze monitoringsystemen voor de bouwsector, watersector, 
+landbouw en onderzoekswereld. Onze technologie stelt bedrijven in staat om in real-time te waken over de grondwaterstand, 
+in combinatie met druk, debiet, regen en tal van andere parameters. We gebruiken hiervoor kwalitatieve sensoren van de 
+meest gerenommeerde fabrikanten. Sensordata wordt live naar de cloud verstuurd, voor eenvoudige visualisatie of integratie via API. 
+De systemen van Crodeon maken verbinding via 4G en werken op zonne-energie, waardoor het mogelijk is om continu te meten 
+in de meest afgelegen gebieden.
 
 ### [Eijkelkamp ](https://www.royaleijkelkamp.com/nl/)
 ![logo_eijkelkamp.png](./assets/img/logo_eijkelkamp.png)  
@@ -59,7 +66,7 @@ erosion or sedimentation in rivers and in rural and urban areas.
 Specialist klimaatadaptief waterbeheer.
 
 
-### PRAKTISCH
+>### PRAKTISCH
 Proefcentrum voor de groententeelt (PCG)
 
 Karreweg 6, B-9770 Kruishoutem
