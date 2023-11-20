@@ -56,9 +56,12 @@ voeren met behulp van real-time data.
 ### [Fluves](https://www.fluves.com/)
 ![Logo Fluves](./assets/img/logo-fluves.png)  
 
-Fluves takes water management to the next level. We use IoT and fiber optic sensors to monitor every meter of the 
-watercourse. Sensor data is sent wirelessly to web portals for remote monitoring of water flow, drought, water quality, 
-erosion or sedimentation in rivers and in rural and urban areas.     
+Fluves is een ingenieursbureau dat monitoringtechnologie ontwikkelt voor water- en energietoepassingen. Het nieuwste Fluves 
+product is HYDRO, een Internet of Things water monitoring oplossing dat inzicht brengt in kritische factoren zoals waterhoogte, 
+turbiditeit, elektronische conductiviteit en temperatuur. HYDRO heeft tot doel om beheerders realtime te waarschuwen in 
+geval van een incidentie (overstroming, pollutie). Daarenboven kan HYDRO, op basis van de real-time data dat het verzamelt, 
+meteen reageren op een event door bijvoorbeeld een pomp of een staalname toestel aan te sturen. Peildrainage valt perfect 
+in het plaatje van ‘monitoren’ en direct reageren, al dan niet op een automatische manier.  
 
 ### [GJ Deblois](gjdeblois.eu)
 ![Logo GJdeBlois](./assets/img/Logo_GJdeBlois.png) 
