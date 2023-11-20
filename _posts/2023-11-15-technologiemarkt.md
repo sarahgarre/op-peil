@@ -27,7 +27,7 @@ gemeten en gevisualiseerd. Ontdek onze oplossingen voor realtime inzichten en ef
 behoeften. Io-Things: uw partner voor precisie, innovatie en naadloze connectiviteit in de wereld van IoT.
 
 ### [Crodeon ](https://www.crodeon.com/)
-![logo_crodeon.PNG](./assets/img/logo_crodeon.png)  
+![logo crodeon](./assets/img/logocrodeon.png)  
 
 Crodeon Technologies is een producent van draadloze monitoringsystemen voor de bouwsector, watersector, 
 landbouw en onderzoekswereld. Onze technologie stelt bedrijven in staat om in real-time te waken over de grondwaterstand, 
