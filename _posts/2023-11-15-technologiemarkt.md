@@ -39,9 +39,20 @@ in de meest afgelegen gebieden.
 ### [Eijkelkamp ](https://www.royaleijkelkamp.com/nl/)
 ![logo_eijkelkamp.png](./assets/img/logo_eijkelkamp.png)  
 
-Onze innovatieve oplossingen, gecombineerd met de kennis en expertise van onze bodem- en waterspecialisten bij Royal 
-Eijkelkamp, tillen projecten naar een hoger niveau. Van veldmeetapparatuur tot slimmer monitoren en bemonsteren, en 
-van de Edelman handboor tot sonische boormachines; Royal Eijkelkamp heeft veel te bieden.    
+Royal Eijkelkamp is een familie bedrijf, en is sinds 1911 uitgegroeid tot één van de meest toonaangevende bedrijven 
+gespecialiseerd in alle aspecten van bodem, slib, grondwater- en wateronderzoek.
+Bodem, grondwater en water vormen een belangrijk onderdeel van mondiale vraagstukken met betrekking tot verschillende thema's, 
+zoals bodemdegradatie, voedselzekerheid, natuurlijke hulpbronnen, landinrichting, verstedelijking, klimaat opwarming en vervuiling.
+Royal Eijkelkamp bestaat uit verschillende gespecialiseerde business units : bodem, grondwater, water, slib, sonic drilling, 
+geotechniek, CPT, telemetrie, data platforms, R&D afdeling, opleidingscentrum,  etc… ).
+Meer dan 110 jaar know how zit in de ontwikkeling, fabricage en verdeling van :
+- Debiet en stroomsnelheids apparatuur ;
+- Apparatuur voor infiltratie en bodem doorlatendheidsonderzoek / pompproeven ;
+- Water en grondwater bemonsteringstechnieken /  Bodem, sediment en slib bemonsteringstechnieken ;
+- Meteo apparatuur ;
+- Van manuele tot sonische boren;
+- Labo apparatuur en in situ veld apparatuur voor fysisch bodemonderzoek ;
+- Telemetrie apparatuur : veld modems ;  
 
 ### [iFlux](https://iflux.be/)
 ![logo_iflux.png](./assets/img/logo_iflux.png)  
