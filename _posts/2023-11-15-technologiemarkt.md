@@ -52,7 +52,7 @@ Meer dan 110 jaar know how zit in de ontwikkeling, fabricage en verdeling van :
 - Meteo apparatuur ;
 - Van manuele tot sonische boren;
 - Labo apparatuur en in situ veld apparatuur voor fysisch bodemonderzoek ;
-- Telemetrie apparatuur : veld modems ;  
+- Telemetrie apparatuur en veldmodems.
 
 ### [iFlux](https://iflux.be/)
 ![logo_iflux.png](./assets/img/logo_iflux.png)  
