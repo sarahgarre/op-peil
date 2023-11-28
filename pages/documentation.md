@@ -9,12 +9,17 @@ permalink: /documentation
 [Peilgestuurde drainage - Het handboek](https://oppeil.curve.space/peilgestuurde-drainage-het-handboek)
 
 ## Literatuur
+- Janine A. de Wit, Marjolein H.J. van Huijgevoort, Jos C. van Dam, Gé A.P.H. van den Eertwegh, Dion van Deijl, Coen J. Ritsema, Ruud P. Bartholomeus,
+ [Hydrological consequences of controlled drainage with subirrigation](https://doi.org/10.1016/j.jhydrol.2023.130432)
 
-Elsen, Frank, and Tom Coussement. 2019. [Drainage +  Peilgestuurde drainage als alternatief voor klassieke drainage.](./assets/docu/Eindrapport-DrainagePlus.pdf) BDB.
+Naar het nederlandstalige [RAPPORT](https://library.kwrwater.nl/publication/70615813/ondergronds-beregenen-op-proefboerderij-rusthoeve-praktijkproef-regelbare-drainage-met-subirrigatie-20202022/)
+.
 
-Stuyt, L. C. P. M. 2013. [Regelbare drainage als schakel in toekomstbestendig waterbeheer ](./assets/docu/rapportAlterra.pdf) Alterra.
+- Elsen, Frank, and Tom Coussement. 2019. [Drainage +  Peilgestuurde drainage als alternatief voor klassieke drainage.](./assets/docu/Eindrapport-DrainagePlus.pdf) BDB.
 
-Stuyt et al. 2012. 33.[Meer Water Met Regelbare Drainage?](./assets/docu/STOWA-2012-33.pdf)  STOWA.
+- Stuyt, L. C. P. M. 2013. [Regelbare drainage als schakel in toekomstbestendig waterbeheer ](./assets/docu/rapportAlterra.pdf) Alterra.
+
+- Stuyt et al. 2012. 33.[Meer Water Met Regelbare Drainage?](./assets/docu/STOWA-2012-33.pdf)  STOWA.
 
 ## Webinars en online beeldmateriaal
 ### Wat is peilgestuurde drainage - filmpje met Sander Bombeke, PSKW
