@@ -8,6 +8,8 @@ permalink: /documentation
 
 [Peilgestuurde drainage - Het handboek](https://oppeil.curve.space/peilgestuurde-drainage-het-handboek)
 
+H.P. Ritzema [Drainage principles and applications](https://edepot.wur.nl/262058)
+
 ## Literatuur
 - Janine A. de Wit, Marjolein H.J. van Huijgevoort, Jos C. van Dam, Gé A.P.H. van den Eertwegh, Dion van Deijl, Coen J. Ritsema, Ruud P. Bartholomeus,
  [Hydrological consequences of controlled drainage with subirrigation](https://doi.org/10.1016/j.jhydrol.2023.130432)
