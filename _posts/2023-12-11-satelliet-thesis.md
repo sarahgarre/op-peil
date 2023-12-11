@@ -4,7 +4,7 @@ title: "Satellietgegevens om effectiviteit van peilgestuurde drainage te onderzo
 author: "Erika Rodriguez Lache, ILVO"
 categories: sample
 tags: [sample]
-image: sentinel 2.jpg
+image: sentinel_2.jpg
 ---
 
 ## Met satellietgegevens de invloed van peilgestuurde drainage beoordelen
