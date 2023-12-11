@@ -15,7 +15,7 @@ W. De Croylaan 48
 ## Projectpartners
 #### [Instituut voor Landbouw-, Visserij-, en Voedingsonderzoek (ILVO)](https://www.ilvo.vlaanderen.be)
 
-Sarah Garré, Guillaume Blanchy, Ali Mehdmanoostkotlar 
+Sarah Garré, Guillaume Blanchy, Erika Rodriguez Lache
 Caritasstraat 39  
 9090 Melle  
 
@@ -57,7 +57,6 @@ Dit project wordt mede mogelijk gemaakt door deze cofinancierders:
 - WERKERS
 - iFlux
 - Rits Drainage
-- Omni-drain
 - Barth Drainage
 - DG Drainage
 
