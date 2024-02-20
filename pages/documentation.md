@@ -10,6 +10,9 @@ permalink: /documentation
 
 H.P. Ritzema [Drainage principles and applications](https://edepot.wur.nl/262058)
 
+## Aquapedia
+De [Aquapedia](https://lifeaclima.eu/aquapedia/peilgestuurde-drainage/) vat relevante en direct bruikbare informatie samen over duurzame watermaatregelen voor de land- en tuinbouwsector.
+
 ## Literatuur
 - Janine A. de Wit, Marjolein H.J. van Huijgevoort, Jos C. van Dam, Gé A.P.H. van den Eertwegh, Dion van Deijl, Coen J. Ritsema, Ruud P. Bartholomeus,
  [Hydrological consequences of controlled drainage with subirrigation](https://doi.org/10.1016/j.jhydrol.2023.130432)
