@@ -18,11 +18,11 @@ Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een 
   
 - Proefhoeve Rusthoeve
 
-**Wanneer?** 
+  **Wanneer?** 
   - dinsdag 20 februari 2024 - Drainage op uw eigen bedrijf
   - donderdag 22 februari 2024 - Innovatieve drainage demonstreren en evalueren
 
-[Meer info](https://www.proefboerderij-rusthoeve.nl/)
+  [Meer info](https://www.proefboerderij-rusthoeve.nl/)
 
 - Studiedag 'Opportuniteiten voor peilgestuurde drainage' - **Onderzoeksresultaten, terreinbezoek, technologiemarkt**
   27 november 2023 9:45 - 13:45
