@@ -8,7 +8,7 @@ permalink: /events
 Er leeft wat rond waterbeheer en peilgestuurde drainage in Vlaanderen. 
 Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een terreinbezoek, over workshops tot een webinar.
 
-- **Starten met peilgestuurde drainage en stuwtjes** | Waterbubble project ACLIMA
+- **Starten met peilgestuurde drainage en stuwtjes** - Waterbubble project ACLIMA
   
   **Wanneer?** 03/08/2024 12:30 - 03/08/2024 16:00
   
@@ -17,9 +17,11 @@ Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een 
   [Meer info](https://www.proefstation.be/event/save-the-date-water-bubble-over-peilgestuurde-drainaige-en-stuwtjes/)
   
 - Proefhoeve Rusthoeve
+
 **Wanneer?** 
   - dinsdag 20 februari 2024 - Drainage op uw eigen bedrijf
   - donderdag 22 februari 2024 - Innovatieve drainage demonstreren en evalueren
+
 [Meer info](https://www.proefboerderij-rusthoeve.nl/)
 
 - Studiedag 'Opportuniteiten voor peilgestuurde drainage' - **Onderzoeksresultaten, terreinbezoek, technologiemarkt**
