@@ -5,7 +5,6 @@ category: events
 permalink: /events
 ---
 
-# Events
 Er leeft wat rond waterbeheer en peilgestuurde drainage in Vlaanderen. 
 Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een terreinbezoek, over workshops tot een webinar.
 
