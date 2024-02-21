@@ -16,12 +16,13 @@ Hieronder vindt u een overzicht van events rond het thema. Dat kan gaan van een 
 
   [Meer info](https://www.proefstation.be/event/save-the-date-water-bubble-over-peilgestuurde-drainaige-en-stuwtjes/)
   
-- Proefhoeve Rusthoeve
+- **Verdiepingsdagen drainage** 
 
   **Wanneer?** 
   - dinsdag 20 februari 2024 - Drainage op uw eigen bedrijf
   - donderdag 22 februari 2024 - Innovatieve drainage demonstreren en evalueren
 
+  **Waar?** Proefhoeve Rusthoeve, Nederland
   [Meer info](https://www.proefboerderij-rusthoeve.nl/)
 
 - Studiedag 'Opportuniteiten voor peilgestuurde drainage' - **Onderzoeksresultaten, terreinbezoek, technologiemarkt**
