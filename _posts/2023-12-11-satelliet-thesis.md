@@ -1,27 +1,40 @@
 ---
 layout: post
-title: "3 tips voor je peilgestuurde drainage"
-author: "Sander Bombeke"
+title: "Satellietgegevens om effectiviteit van peilgestuurde drainage te onderzoeken"
+author: "Erika Rodriguez Lache, ILVO"
 categories: sample
 tags: [sample]
-image: peilbuismetmeter.jpg
+image: sentinel_2.jpg
 ---
 
-Ben je eigenaar van peilgestuurde drainage? Dikke proficiat! Het seizoen schiet volop uit de startblokken en dat is DE periode om je peil goed te sturen. Hoe pak je dat nu aan?
-Met deze 3 tips voor je peilgestuurde drainage ben je alvast goed op weg.
+## Met satellietgegevens de invloed van peilgestuurde drainage beoordelen
 
-> Tip 1: Vergeet niet om je drainage op tijd te stoppen.
+Tijdsreeksen van satellietbeelden maken het mogelijk de impact van peilgestuurde drainage op de ontwikkeling van teelten tijdens 
+extreme weersomstandigheden na te gaan. De analyse van dit soort beelden van verschillende velden in de provincies 
+Limburg en Antwerpen in 2020 en 2021, toonde de positieve invloed van peilgestuurde drainage-installaties op zandgronden aan. 
+Voor deze beoordeling gebruikten we onder andere de gewasindicator NDVI afgeleid van de vrij beschikbare beelden van de Sentinel 2 satellietmissie.
 
-Moet je je veld niet meteen meer op na zaaien/planten, is het een kleine moeite om je peil op te stuwen. Momenteel is het nog erg nat en willen we het water kwijt. Wat weg is komt echter niet terug. Vanaf een droge periode start, kan je nog moeilijk water sparen… Tijdig je drainage toe zetten heeft grote gevolgen, want je spaart heel wat liters water voor je teelt.
+In het droge jaar 2020 hadden de teelten op velden met peilgestuurde drainage een hogere NDVI dan aangrenzende 
+percelen zonder peilgestuurde drainage (zie onderstaande afbeelding voor een perceel met maïs). 
+Dit contrast was het duidelijkst van begin juli tot half augustus, een periode waarin minder water beschikbaar was voor 
+de landbouw in de regio.
+ 
+![evolutie van NDVI voor perceel met en zonder peilgestuurde drainage](../assets/img/NDVI_PGD.png)
 
-> Tip 2: Drainage is meer dan alles of niets.
+Tijdens natte seizoenen, zoals in 2021, vertoonden gewassen onder peilgestuurde drainage een klein verschil met naburige 
+percelen. Deze bevindingen suggereren dat peilgestuurde drainage, bij adequaat beheer, op een vergelijkbare manier werkt 
+als traditionele drainage, waardoor schade aan gewassen door wateroverlast wordt voorkomen en toch, over het jaar heen, meer water 
+wordt vastgehouden.
 
-Is je perceel al goed begaanbaar of moet je vrij snel er terug op? Dan is de moeite om al een beetje water op te stuwen. Je drainage is meer dan alles of niets, je kan verschillende peilen instellen. Bijvoorbeeld 20cm water sparen kan op een hectare al 800m³ waterberging betekenen!  Wordt het toch te nat? Dan is je perceel snel terug volledig gedraineerd.
+Deze bevindingen tonen aan dat gecontroleerde drainagesystemen de ontwikkeling van gewassen tijdens periodes van intense 
+droogte kunnen optimaliseren in zandbodems. Ze onderschrijven ook het vermogen van teledetectie om de voordelen van gecontroleerde 
+drainagesystemen te detecteren. Met deze techniek willen we nu ook de geschiktheid van peilgestuurde drainage in andere bodemtypes onderzoeken.
 
-Kan je je drainage volledig stoppen? Dan is het grondwater al sneller aangevuld. En wordt het plots droog? Dan heb je toch al water gespaard. Hoe hoog je je peil tijdelijk moet zetten in het voorjaar zal afhangen van jouw perceel en het weer. Gebruik je ervaring met je percelen en na enige tijd krijg je het in de vingers.
+> Om de resultaten en conclusies uit te breiden naar andere regio's in Vlaanderen, is het cruciaal om velden op te nemen 
+in onze test-databank waarvan we zeker weten dat peilgestuurde drainage is geïmplementeerd. We doen daarom beroep op jullie,
+landbouwers en landbouworganisaties, om nieuwe sites aan te dragen voor dit doel. Deze gegevens zullen vertouwerlijk behandeld 
+worden. *Door je peilgestuurd perceel door te geven, kan je actief bijdragen aan een beter begrip van de werking van
+peilgestuurde drainage in Vlaanderen!*
 
-> Tip 3: Succesvol water besparen, begint in het voorjaar.
-
-Gemiddeld gezien zijn april en mei de maanden met minste neerslaghoeveelheid. In deze periode begint alles volop te groeien en wordt het grondwater gebruikt. Zoveel mogelijk water uit het voorjaar kunnen sparen is dus cruciaal. Het is een drukke periode en die drainage is snel uit het oog verloren. Denk er aan dat nu je peil correct instellen werk en zorgen spaart achteraf. Uit onze monitoring is gebleken dat te laat of te laag peil instellen geen zin heeft. Ben je er echter op tijd bij, dan stel je een lage grondwaterstand met weken uit.
-
-Link naar volledige blogpost van proefstation voor de groententeelt: https://www.proefstation.be/3-tips-voor-je-peilgestuurde-drainage/ 
+Dit werk kwam tot stand in een recente studie, ontwikkeld als onderdeel van een masterproef aan de KU Leuven en de VUB, binnen het 
+VLAIO-LA traject OP-PEIL. Van zodra deze thesis online beschikbaar is, zullen we de link hier ook toevoegen. 
