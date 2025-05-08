@@ -18,7 +18,7 @@ Het artikel belicht het complexe hydrologische systeem in de polders waar zoet w
 Het artikel toont ook de algemene dynamiek van de zoet-zout grondwatergrens met behulp van sensoren en elektrische resistiviteitstomografie (ERT) zoals in deze figuur. 
 
 
-|![ert zoet-zout watergrens](./assets/img/paper-setup-ert.jpg')|
+|![ert zoet-zout watergrens](./assets/img/paper-setup-ert.png')|
 |:--:|
 |<b>De data tonen hoe het gewas in de zomer water opneemt uit de zoetwaterbel, deze langzaam opgebruikt en hoe het zoute water een beetje naar boven komt. We konden echter geen zichtbaar effecten van peilgestuurde drainage op de zoet-zout watergrens aantonen in de 2 relatief natte jaren van dit experiment. Op de peilbuis RD3 die in de zone van lagere ECa staat, is geen zout water gemeten. Dat toont aan dat de ruimtelijke structuren ook de grondwatertafel beïnvloeden.</b>|
 
