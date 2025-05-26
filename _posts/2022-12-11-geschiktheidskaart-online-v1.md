@@ -15,7 +15,7 @@ In deze kaart worden percelen geklasseerd in categorieën volgens potentie voor 
 door de percelen te evalueren op 1) doorlaatbaarheid van de bodem 2) grondwateraanvoer 3) helling van het perceel. 
 Percelen met iets zwaardere bodems (textuurklasse L en A) worden geklasseerd als 'mogelijk kansrijk (aandacht voor doorlaatbaarheid)', 
 omdat er momenteel nog weinig ervaring is met peilgestuurde drainage op deze zwaardere bodems. Meer details over de methode 
-kan je vinden in de [voorgaande blogpost](https://www.peilgestuurdedrainage.be/geschiktheidskaart).
+kan je vinden in de [voorgaande blogpost]({% post_url 2022-07-08-geschiktheidskaart %}).
 
 De kaart die momenteel beschikbaar is in de waterradar, is een prototype en zal in de toekomst verder geoptimaliseerd worden 
 door onder meer gebruikersfeedback. Zo zal de peilgestuurde drainage potentie in de Polders in de toekomst wel beschikbaar zijn, 
