@@ -4,7 +4,7 @@ title: "Subirrigatie: veel water, weinig effect"
 author: "OP-PEIL"
 categories: sample
 tags: [sample]
-image: subirrigatie_PCG.jpg
+image: peilbuismetmeter.jpg
 ---
 
 De afgelopen 4 jaar werd het potentieel van peilgestuurde drainage en, bij uitbreiding, subirrigatie onderzocht. Daarvoor werden een aantal proeven aangelegd, waarvan het laatste seizoen in aardappel.
