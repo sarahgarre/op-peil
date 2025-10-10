@@ -10,6 +10,7 @@ permalink: /documentation
 
 H.P. Ritzema [Drainage principles and applications](https://edepot.wur.nl/262058)
 
+Factsheet regelbare drainage - provincie Zeeland [Naar de pdf](./assets/docu/Factsheet-regelbare-drainage.pdf) 
 ## Aquapedia
 De [Aquapedia](https://lifeaclima.eu/aquapedia/peilgestuurde-drainage/) vat relevante en direct bruikbare informatie samen over duurzame watermaatregelen voor de land- en tuinbouwsector.
 
