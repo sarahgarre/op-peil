@@ -29,6 +29,9 @@ De [Aquapedia](https://lifeaclima.eu/aquapedia/peilgestuurde-drainage/) vat rele
 https://library.wur.nl/WebQuery/hydrotheek?q=regelbare+drainage+subirrigatie
 
 ## Webinars en online beeldmateriaal
+### Klimaatadaptieve drainage - explainer door het project sKAD
+<iframe src="https://player.vimeo.com/video/1123194944?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Klimaatadaptieve drainage (KAD)"></iframe>
+
 ### Wat is peilgestuurde drainage - filmpje met Sander Bombeke, PSKW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pixd66lfp78" title="Wat is peilgestuurde drainage" frameborder="0" allowfullscreen></iframe>
 
