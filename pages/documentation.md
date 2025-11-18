@@ -49,7 +49,7 @@ Inhoud:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAASnJX6puc" title="Webinar peilgestuurde drainage en subirrigatie" frameborder="0" allowfullscreen></iframe>
 
-## Gerelateerde 
+## Gerelateerde projecten
 ### [ACLIMA](https://lifeaclima.eu/)
 Life ACLIMA wil land- en tuinbouwbedrijven ondersteunen om op een toekomstgerichte en duurzame manier antwoorden te bieden op de toenemende waterbehoefte en dalende waterbeschikbaarheid in de land- en tuinbouwsector als gevolg van de klimaatverandering.
 
